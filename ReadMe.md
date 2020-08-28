@@ -4,6 +4,8 @@ I came across an interesting dataset while browsing through the UCI Machine Lear
 
 # Bitcoin Heist Classification Project
 
+Access the entire notebook in the bitcoin_heist_classification.ipynb file.
+
 End-to-end classification project, involving EDA, data cleaning, feature selection, and selection, evaluation, and deployment of classification algorithms. Achieved a score of 0.81 using the Random Forest Classifier algorithm, with:
 
 Recall Score: 0.69
